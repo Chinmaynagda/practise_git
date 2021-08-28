@@ -65,9 +65,6 @@
      {$city=" ";}
     else
     {$city=test_data($_POST["city"]);}
- 
-    echo $gender;
-    echo $genderErr;
       }
 
       function test_data($data)
