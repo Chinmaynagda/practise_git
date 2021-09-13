@@ -1,5 +1,4 @@
 <?php
-
 echo "<br>"."<h3>Passing array in callback function</h3>";
 function square($n)
 {
@@ -19,6 +18,7 @@ echo "Square of first 10 natural number:<br>";
 prt($arr,"square");
 echo "<br><br>"."Cube of first 10 natural number:<br>";
 prt($arr,"cube");
+$aee=array(456);
 
 
 
